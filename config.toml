@@ -1,9 +1,9 @@
-baseURL = "https://805bluebell.github.io/blog2/"
+baseURL = "https://805bluebell.github.io"
 languageCode = "en-us"
 title = "Kross | Hugo Portfolio Template"
 theme = "kross-hugo"
 summaryLength = "10"
-publishDir = "docs"
+publishDir = "public"
 
 # Plugins
 [params.plugins]
