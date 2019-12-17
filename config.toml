@@ -1,7 +1,7 @@
 baseURL = "https://805bluebell.github.io"
 languageCode = "en-us"
-title = "Kross | Hugo Portfolio Template"
-theme = "kross-hugo"
+title = "Pankaj Kumar | Humble beginnings"
+theme = "kross-hugo-modified"
 summaryLength = "10"
 publishDir = "public"
 
@@ -56,19 +56,19 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "PK"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = ""
 
   # Preloader
   [params.preloader]
   enable = true
 
   [params.contact]
-  enable = true
+  enable = false
   formAction = "#" #contact form works with formspree.io
 
   [params.footer]
-  email = "steve.fruits@email.com"
-  phone = "+880 2544 658 256"
-  address = "125/A, CA Commercial Area, California, USA"
+  email = "805.bluebell@mail.com"
+  phone = "+91 8097 8636 41"
+  address = "Kolshet, Thane(w), India"

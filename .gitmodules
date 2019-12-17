@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/805bluebell/805bluebell.github.io.git
+[submodule "themes/kross-hugo-modified"]
+	path = themes/kross-hugo-modified
+	url = https://github.com/805bluebell/kross-hugo.git
