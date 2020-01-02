@@ -1,30 +1,30 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Pankaj"
+  title: "Hi! I’m <br> Pankaj Kumar"
   socialLinks:
     - icon: "ti-facebook"
-      URL: "www.facebook.com"
+      URL: "https://www.facebook.com/pankajwillkillu"
 
     - icon: "ti-instagram"
-      URL: "www.instagram.com"
+      URL: "https://www.instagram.com/0pankajkumar/"
 
-    - icon: "ti-dribbble"
-      URL: "#"
+    - icon: "ti-github"
+      URL: "https://github.com/805bluebell"
 
     - icon: "ti-twitter"
-      URL: "www.twitter.com"
+      URL: "https://twitter.com/0pankajkumar"
 
 # about
 about:
   enable: true
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content: "I am an aspiring Product Specialist Coder (Full Stack developer) who makes solutions from scratch to scale in zillions. Learning technical stuff & street smart tactics are my favourite. Fan of guerilla warfare."
   button:
     btnText: "know more"
     URL: "/about"
 
 # skill
 skill:
-  enable: true
+  enable: false
   skillbar:
     - title: "Web Design"
       progress: "90%"
@@ -47,43 +47,38 @@ experience:
   enable: true
   item:
     - logo: "images/experience/icon-1.png"
-      title: "Junior UX Designer"
-      company: "WEBEX"
-      duration: "Jan 2007 - Feb 2009"
+      title: "Software Developer Intern"
+      company: "Mosaik Risk Solutions"
+      duration: "Apr 2019 - May 2019"
 
     - logo: "images/experience/icon-2.png"
-      title: "UX & UI Designer"
-      company: "AUGMEDIX"
-      duration: "Mar 2009 - Aug 2014"
-
-    - logo: "images/experience/icon-1.png"
-      title: "Senior UI Designer"
-      company: "THEMEFISHER"
-      duration: "Sep 2014 - Present"
+      title: "Full-stack Developer Intern"
+      company: "Directi"
+      duration: "June 2019 - Present"
 
 # education
 education:
   enable: true
   item:
-    - title: "Marters in UX Design"
-      year: "2006"
-      academy: "Masassusets Institute of Technology"
+    - title: "Certificate in Data Structures, Algorithms"
+      year: "2019"
+      academy: "Codechef"
 
-    - title: "Honours in Fine Arts"
-      year: "2004"
-      academy: "Harvard University"
+    - title: "Bachelors in Engineering"
+      year: "2015"
+      academy: "Mumbai University"
 
-    - title: "Higher Secondary Certificat"
-      year: "2000"
-      academy: "Cardiff School"
+    - title: "Higher Secondary Certificate"
+      year: "2011"
+      academy: "Kendriya Vidhyalaya AFS, Thane"
 
     - title: "Secondary School Certificate"
-      year: "1998"
-      academy: "Cardiff School"
+      year: "2009"
+      academy: "Kendriya Vidhyalaya AFS, Thane"
 
 # service
 service:
-  enable: true
+  enable: false
   item:
     - title: "UI Design"
       icon: "ti-palette"
@@ -140,7 +135,7 @@ testimonial:
 
 # client slider
 clientSlider:
-  enable: true
+  enable: false
   item:
     - logo: "images/clients-logo/client-logo-1.png"
       URL: "#"
