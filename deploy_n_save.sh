@@ -1,3 +1,3 @@
 
-sh deploy_public.sh
+sh public_deploy.sh
 sh save_blog_code.sh
