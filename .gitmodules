@@ -7,3 +7,9 @@
 [submodule "themes/kross-hugo-modified"]
 	path = themes/kross-hugo-modified
 	url = https://github.com/805bluebell/kross-hugo.git
+[submodule "themes/themes/hugo-coder"]
+	path = themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
