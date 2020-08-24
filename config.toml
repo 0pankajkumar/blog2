@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "805bluebell.github.io"
+title = "pankajkumar"
 
 theme = "hugo-coder"
 
@@ -16,20 +16,20 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Pankaj Kumar"
+    description = "Pankaj Kumar's personal website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Full Stack Developer and Artist"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = "You are what you imagine."
 
     dateformat = "January 2, 2006"
 
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2014
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
