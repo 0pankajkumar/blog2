@@ -1,4 +1,4 @@
-baseurl = "805bluebell.github.io"
+baseurl = "https://805bluebell.github.io/"
 title = "pankajkumar"
 
 theme = "hugo-coder"
