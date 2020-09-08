@@ -7,5 +7,9 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
+ Ventures never fail, only have unexpected outcomes.   
 
-<p dir="ltr">Ventures never fail, only have unexpected outcomes. <br></p> <p dir="ltr">Sent from my Sony Xperia&#8482; smartphone</p> 
+
+ Sent from my Sony Xperia™ smartphone
+
+ 

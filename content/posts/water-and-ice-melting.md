@@ -7,5 +7,31 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
-
-<div dir="ltr" style="text-align: left;" trbidi="on"><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-lsXZm9St7f8/U6b5vVfdeWI/AAAAAAAAFMw/9EtmVc74vEM/s1600/withIce1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><br /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-zSPyhwLfKWo/U6b5vVLmLcI/AAAAAAAAFM4/rif3017Zf_A/s1600/withIce2.jpg" imageanchor="1" style="margin-left: 1em; margin-left: 1em;"><br /></a></div>Q: A glass of water has an ice cube floating&nbsp; in water. The water level just touches the rim of the glass. Will the water overflow when the ice melts?<br /><br />The question is pretty straight forward. If ice will melt certainly some water will be added unnecessarily to cause an overflow.<br /><br />Well , to find it out i did it all with just a glass of water so full that a few more drops will cause it to overflow.<br /><br />I dropped a cube of ice from my fridge and applied the test of patience to the apparatus.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-lsXZm9St7f8/U6b5vVfdeWI/AAAAAAAAFM0/YYNt3WA7T-g/s1600/withIce1.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-lsXZm9St7f8/U6b5vVfdeWI/AAAAAAAAFM0/YYNt3WA7T-g/s1600/withIce1.jpg" height="320" width="192" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-zSPyhwLfKWo/U6b5vVLmLcI/AAAAAAAAFM8/AjaKsAo_id4/s1600/withIce2.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://1.bp.blogspot.com/-zSPyhwLfKWo/U6b5vVLmLcI/AAAAAAAAFM8/AjaKsAo_id4/s1600/withIce2.jpg" height="320" width="192" /></a></div><br />Something happened. Guess the result before i reveal.<br /><br />#################################################################<br />%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-TQwPVwdZMs8/U6b6maXdabI/AAAAAAAAFNQ/Hy9IhG1n6o0/s1600/withIceMelting.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-TQwPVwdZMs8/U6b6maXdabI/AAAAAAAAFNQ/Hy9IhG1n6o0/s1600/withIceMelting.jpg" height="320" width="192" /></a></div><br />&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;<br />#################################################################<br /><br />OK , there was no overflow noted. Not at all.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-BPeP_x08zuA/U6b6cqfLCfI/AAAAAAAAFNE/66cbYMi3SsE/s1600/withIceMelted2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-BPeP_x08zuA/U6b6cqfLCfI/AAAAAAAAFNE/66cbYMi3SsE/s1600/withIceMelted2.jpg" height="320" width="192" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-_NuvWO0Ku8k/U6b6cmQwAGI/AAAAAAAAFNA/9mG1C38putA/s1600/withIceMelted1.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://2.bp.blogspot.com/-_NuvWO0Ku8k/U6b6cmQwAGI/AAAAAAAAFNA/9mG1C38putA/s1600/withIceMelted1.jpg" height="320" width="192" /></a></div><br /><br />REASON: the ice which was floating on the surface was not so much outside the water. Thats why the melting had no drastic result in the volume.<br />Because, the volume of ice was already incorporated inside water. <br /><br />Thats it !!</div>
+   
+Q: A glass of water has an ice cube floating in water. The water level just touches the rim of the glass. Will the water overflow when the ice melts?  
+  
+The question is pretty straight forward. If ice will melt certainly some water will be added unnecessarily to cause an overflow.  
+  
+Well , to find it out i did it all with just a glass of water so full that a few more drops will cause it to overflow.  
+  
+I dropped a cube of ice from my fridge and applied the test of patience to the apparatus.  
+  
+[![](http://2.bp.blogspot.com/-lsXZm9St7f8/U6b5vVfdeWI/AAAAAAAAFM0/YYNt3WA7T-g/s1600/withIce1.jpg)](http://2.bp.blogspot.com/-lsXZm9St7f8/U6b5vVfdeWI/AAAAAAAAFM0/YYNt3WA7T-g/s1600/withIce1.jpg)  
+[![](http://1.bp.blogspot.com/-zSPyhwLfKWo/U6b5vVLmLcI/AAAAAAAAFM8/AjaKsAo_id4/s1600/withIce2.jpg)](http://1.bp.blogspot.com/-zSPyhwLfKWo/U6b5vVLmLcI/AAAAAAAAFM8/AjaKsAo_id4/s1600/withIce2.jpg)  
+Something happened. Guess the result before i reveal.  
+  
+#################################################################  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+[![](http://3.bp.blogspot.com/-TQwPVwdZMs8/U6b6maXdabI/AAAAAAAAFNQ/Hy9IhG1n6o0/s1600/withIceMelting.jpg)](http://3.bp.blogspot.com/-TQwPVwdZMs8/U6b6maXdabI/AAAAAAAAFNQ/Hy9IhG1n6o0/s1600/withIceMelting.jpg)  
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&  
+#################################################################  
+  
+OK , there was no overflow noted. Not at all.  
+  
+[![](http://4.bp.blogspot.com/-BPeP_x08zuA/U6b6cqfLCfI/AAAAAAAAFNE/66cbYMi3SsE/s1600/withIceMelted2.jpg)](http://4.bp.blogspot.com/-BPeP_x08zuA/U6b6cqfLCfI/AAAAAAAAFNE/66cbYMi3SsE/s1600/withIceMelted2.jpg)  
+[![](http://2.bp.blogspot.com/-_NuvWO0Ku8k/U6b6cmQwAGI/AAAAAAAAFNA/9mG1C38putA/s1600/withIceMelted1.jpg)](http://2.bp.blogspot.com/-_NuvWO0Ku8k/U6b6cmQwAGI/AAAAAAAAFNA/9mG1C38putA/s1600/withIceMelted1.jpg)  
+  
+REASON: the ice which was floating on the surface was not so much outside the water. Thats why the melting had no drastic result in the volume.  
+Because, the volume of ice was already incorporated inside water.   
+  
+Thats it !! 

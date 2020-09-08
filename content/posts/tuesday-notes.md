@@ -7,5 +7,23 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
-
-<div dir="ltr">sort form various bubbles<br><br>say no to other options<br><br>do few things, dont be jack of all trades but master of none<br><br>give up somethings to acheive more important things<br><br>choose your big thing (bike garage owner &amp; aeroplane company ceo)<br><br>solve bigger, much bigger problems: size of problems = size of results<br><br>be brillant at basics<br><br>do your work , your work very well ,,, &amp; leave<br><br><a href="https://www.youtube.com/watch?v=X-CC3JO8L3o">https://www.youtube.com/watch?v=X-CC3JO8L3o</a><br><br><br></div>  
+ sort form various bubbles  
+  
+say no to other options  
+  
+do few things, dont be jack of all trades but master of none  
+  
+give up somethings to acheive more important things  
+  
+choose your big thing (bike garage owner & aeroplane company ceo)  
+  
+solve bigger, much bigger problems: size of problems = size of results  
+  
+be brillant at basics  
+  
+do your work , your work very well ,,, & leave  
+  
+<https://www.youtube.com/watch?v=X-CC3JO8L3o>  
+  
+  
+ 

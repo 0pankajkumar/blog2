@@ -7,5 +7,14 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
+ Office:   
+ Fill progress review  
+ Clear all invoices from table  
+ Kill speedflows to zero  
+ Do a kaizen
 
-<p dir="ltr">Office: <br> Fill progress review<br> Clear all invoices from table<br> Kill speedflows to zero<br> Do a kaizen</p> <p dir="ltr">Mission plan B:</p> <p dir="ltr">Sent from my Sony Xperia&#8482; smartphone</p> 
+ Mission plan B:
+
+ Sent from my Sony Xperia™ smartphone
+
+ 

@@ -7,5 +7,9 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
-
-<div dir="ltr" style="text-align: left;" trbidi="on"><br />This was a course project for us in mechanical engineering curriculum.&nbsp; <br /><br /><a href="https://drive.google.com/file/d/0Bxe79Pknst5aQnZGV1BIZk1QWTQ/view?usp=sharing" target="_blank">link for doc file </a><br /><br /><a href="https://drive.google.com/file/d/0Bxe79Pknst5abkJmQnNrajd4VFk/view?usp=sharing" target="_blank">link for pdf file</a></div>
+   
+This was a course project for us in mechanical engineering curriculum.   
+  
+[link for doc file](https://drive.google.com/file/d/0Bxe79Pknst5aQnZGV1BIZk1QWTQ/view?usp=sharing)   
+  
+[link for pdf file](https://drive.google.com/file/d/0Bxe79Pknst5abkJmQnNrajd4VFk/view?usp=sharing) 

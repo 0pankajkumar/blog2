@@ -8,4 +8,7 @@ blogimport = true
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
 
-<p dir="ltr">Its a long way down the line. I have reached the interiors of company. Corporate induction ( honeymoon period) has ended. It feels like going back there. The girl in the bush is also not responding well. </p>  
+
+ Its a long way down the line. I have reached the interiors of company. Corporate induction ( honeymoon period) has ended. It feels like going back there. The girl in the bush is also not responding well. 
+
+ 

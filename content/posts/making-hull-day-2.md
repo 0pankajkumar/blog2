@@ -9,4 +9,4 @@ blogimport = true
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
 
-<div dir="ltr" style="text-align: left;" trbidi="on">We started&nbsp; the day&nbsp; with in mind to finish</div>
+ We started the day with in mind to finish 

@@ -8,4 +8,23 @@ blogimport = true
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
 
-<p dir="ltr">Dilemma.<br> Don't know which way to go.<br> Do <a href="http://m.tech">m.tech</a> or shoot movies or do job.<br> So it's not dilemma, it's tilemma.</p> <p dir="ltr">If I go for gate I will have to leave job &amp; prepare for it for Complete academic year. Then I will have option of psu's as well. And life at psu will be damn chill.&nbsp; I hope so.<br> <a href="http://M.tech">M.tech</a> from iit or a foreign school will be like living once college life. That will again play as mind opener. It will provide shelter just like Godrej.<br> So it boils down to job or <a href="http://m.tech">m.tech</a>. Possibility of a good life after <a href="http://m.tech">m.tech</a> is unknown to most of my relatives &amp; friends. Lets Search over web. <br> Shooting movies. Lets start with this chap which makes me an artist instead if a banker. <br> I think both are aspects of one's life &amp; one should experiment with then enough to determine ones destiny. Because you won't know what's there if you don't go &amp; see for yourself.<br> It's very good that I have so many options. Lets dip into them one by one. You know we can't multitask. So it's out of question that I will be confused &amp; struct between the two choices. Just do it will work here. Lets get ourselves to hard cruise this week. Most things will be clear by the time. <br> Hope for the best &amp; wear your seatbelt. </p> <p dir="ltr">Kudos, sayonara &amp; ala hafiz.<br><br></p> <p dir="ltr">Sent from my Sony Xperia&#8482; smartphone</p> 
+Dilemma.  
+Don't know which way to go.  
+Do [m.tech](http://m.tech) or shoot movies or do job.  
+So it's not dilemma, it's tilemma.
+
+If I go for gate I will have to leave job & prepare for it for Complete academic year. Then I will have option of psu's as well. And life at psu will be damn chill. I hope so.  
+[M.tech](http://M.tech) from iit or a foreign school will be like living once college life. That will again play as mind opener. It will provide shelter just like Godrej.  
+So it boils down to job or [m.tech](http://m.tech). Possibility of a good life after [m.tech](http://m.tech) is unknown to most of my relatives & friends. Lets Search over web.   
+Shooting movies. Lets start with this chap which makes me an artist instead if a banker.   
+I think both are aspects of one's life & one should experiment with then enough to determine ones destiny. Because you won't know what's there if you don't go & see for yourself.  
+It's very good that I have so many options. Lets dip into them one by one. You know we can't multitask. So it's out of question that I will be confused & struct between the two choices. Just do it will work here. Lets get ourselves to hard cruise this week. Most things will be clear by the time.   
+Hope for the best & wear your seatbelt. 
+
+Kudos, sayonara & ala hafiz.  
+
+
+
+Sent from my Sony Xperia™ smartphone
+
+ 

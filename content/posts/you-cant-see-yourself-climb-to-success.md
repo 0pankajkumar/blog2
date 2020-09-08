@@ -7,5 +7,8 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
+ You can't see yourself climb to success.
 
-<p dir="ltr">You can't see yourself climb to success.</p> <p dir="ltr">Sent from my Sony Xperia&#8482; smartphone</p> 
+ Sent from my Sony Xperia™ smartphone
+
+ 

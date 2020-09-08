@@ -3,4 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-Nothing to see here... Move along!
+Most of my work is in my Resume for now.
+Building showcase very soon.
+
+Till then read my [linkedin profile](https://www.linkedin.com/in/0pankajkumar/).

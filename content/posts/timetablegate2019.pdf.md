@@ -7,5 +7,4 @@ blogimport = true
 	name = "Pankaj"
 	uri = "https://www.blogger.com/profile/12649611385928687519"
 +++
-
-<div dir="auto"></div>  
+  
